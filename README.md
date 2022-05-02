@@ -2,7 +2,7 @@
 
 ## Contributing
 
-This project is welcome to contributing. To contribute, you can create a issue with the airport code as title and your text ATIS as comment, if you want to provide me with a music file, email <a href="mailto:earthjasonlin@163.com">earthjasonlin@163.com</a>.
+This project is welcome to contributing. To contribute, you can email the text to <a href="mailto:earthjasonlin@163.com">earthjasonlin@163.com</a>.
 
 ## ATIS
 
